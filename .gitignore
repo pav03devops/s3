@@ -1,0 +1,7 @@
+#terraform logs
+**/.terraform/*
+#statefile logs
+*.tfstate.*
+*.tfstate
+#tfvars
+*.tfvars
